@@ -1,4 +1,4 @@
-# Answers of <studentsname>
+# Answers of <students-firstname> <students-lastname> <github-username>
 
 ## Basics
 ### Task 1

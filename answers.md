@@ -17,7 +17,7 @@ Le dépôt contient désormais un commit avec des modifications apportées au fi
 - Le dépot distant (ici github) est-il à jour avec nos modifications ?
 non, le dépôt distant n'est pas encore à jour avec les modifications locales tant que les changements n'ont pas été poussés (push) vers le dépôt distant.
 ### Task 3
-
+Il y a un message untracked files.
 ### Task 4
 
 ### Task 5

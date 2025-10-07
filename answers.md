@@ -41,5 +41,15 @@ Non, le dépôt originel n'a pas été modifié par les actions effectuées dans
 ## Gitgraph
 
 ### Task 7
-
+ - Nommez tous les éléments visibles dans l’image Figure 24 (points 1 à 10)
+1. nom de la branche
+2. hash de commit
+3. message de commit
+4. auteur du commit
+5. tag
+6. dernier commit
+7. branche secondaire (feature-auth)
+8. last commit de la branche initiale
+9. branche secondaire (develop)
+10. branche main
 ![Gitgraph](img/gitgraph.svg)

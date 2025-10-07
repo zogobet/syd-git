@@ -1,8 +1,8 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Zoé Gobe zogobet
 
 ## Basics
 ### Task 1
-
+1. unstaged file commit change : signifie qu'un fichier a été changé mais n'a pas encore été ajouté à l'index pour être commité.
 ### Task 2
 
 ### Task 3
